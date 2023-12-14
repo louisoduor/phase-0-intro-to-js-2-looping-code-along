@@ -15,7 +15,7 @@ wrapGifts(gifts);
 
 
 
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+writeCards(["Charlie", "Samip", "Ali"], "birthday");
 
 
 function writeCards(names, eventName) {
@@ -36,7 +36,7 @@ function writeCards(names, eventName) {
 }
 
 // Example usage:
-const namesArray = ["Ada", "Brendan", "Ali"];
+const namesArray = ["Charle", "Samip", "Ali"];
 const event = "birthday";
 
 // Call the writeCards function with the example data
@@ -65,3 +65,7 @@ function countDown(startingNumber) {
 
 // Example usage:
 countDown(10); // Replace 10 with the desired starting number
+
+
+
+
